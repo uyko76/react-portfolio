@@ -1,40 +1,40 @@
 {
   "main": {
     "name": "Ali Cankal",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
-    "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
-    "phone": "+1 800 NAZ DUMA",
+    "occupation": "Digital Consultant @www.cankalsoftware.com",
+    "description": "Full Stack Developer and Digital Consultant.",
+    "image": "ali.jpg",
+    "bio": "My name is Ali, I'm a Full Stack Developer and DIgital Learning Consultant. Currently I'm working at QA,com.",
+    "contactmessage": "Get in touch with me to chat for consulting.",
+    "email": "uyko76@yahoo.com",
+    "phone": "",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.cankalsoftware.com",
+    "resumedownload": "http://cankalsoftware.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
+        "url": "https://www.facebook.com/alicankal",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/alicankal/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
+        "url": "https://www.instagram.com/pinarlik/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/uyko76",
         "className": "fa fa-github"
       }
     ]
